@@ -6,7 +6,7 @@
 
 The Cartpole problem involves balancing a pole vertically on a moving cart, with the objective of preventing the pole from falling over. The environment provides feedback in the form of rewards, where the agent receives a positive reward for each time step the pole remains upright and a negative reward if the pole falls or the cart moves out of bounds. The goal is to train an RL agent to learn a policy that maximizes cumulative rewards over episodes, thereby achieving optimal pole balancing behavior.
 
-**Readme:**
+
 
 **Cartpole Balancing with Continuous Actions**
 
